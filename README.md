@@ -1,0 +1,2 @@
+# newblog
+Laravel demo application
